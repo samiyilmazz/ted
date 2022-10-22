@@ -40,9 +40,6 @@ class Main extends Component{
                         <td>
                             <Link to={`edit-notes/${item.id}`} className="btn btn-success btn-sm">Notlar</Link>
                         </td>
-                        <td>
-                            <button type='button' className='btn btn-danger btn-sm'>Sil</button>
-                        </td>
                         
 
                     </tr>
